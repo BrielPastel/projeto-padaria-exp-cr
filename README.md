@@ -1,6 +1,6 @@
-Para rodar o projeto
+#Para rodar o projeto
 
-# Primeiramente trocar a senha e o nome da db no meu-projeto/backend/db.js
+## Primeiramente trocar a senha e o nome da db no meu-projeto/backend/db.js
 
 export const db = mysql.createConnection({
     host: "localhost",
@@ -9,9 +9,9 @@ export const db = mysql.createConnection({
     database: "sua-db"
 });
 
-# Iniciar o backend (na pasta backend)
+## Iniciar o backend (na pasta backend)
 node index.js
 
-# Iniciar o frontend (na pasta raiz)
+## Iniciar o frontend (na pasta raiz)
 npm run dev
 
