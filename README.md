@@ -1,4 +1,4 @@
-#Para rodar o projeto
+# Para rodar o projeto
 
 ## Primeiramente trocar a senha e o nome da db no meu-projeto/backend/db.js
 
