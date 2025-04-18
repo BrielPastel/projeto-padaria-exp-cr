@@ -15,4 +15,4 @@ node index.js
 ## Iniciar o frontend (na pasta raiz)
 npm run dev
 
-## O banco de dados desse projeto foi conectado com o back-end usando Xampp
+### O banco de dados desse projeto foi conectado com o back-end usando Xampp
